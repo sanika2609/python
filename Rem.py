@@ -1,4 +1,4 @@
 no1=20
 no2=6
-Rem=no1%no2
+Rem=int(no1)%int(no2)
 print(Rem)
