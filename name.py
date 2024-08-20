@@ -1,0 +1,2 @@
+g="sanika"
+print(g)
