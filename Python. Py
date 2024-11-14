@@ -1,0 +1,4 @@
+x="python"
+y="is"
+z="awsome"
+print(x,y,z)
