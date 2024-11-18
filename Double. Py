@@ -1,0 +1,4 @@
+x=double(20000000000)
+y=double(2.5)
+print(x)
+print(y)
