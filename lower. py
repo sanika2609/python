@@ -1,0 +1,2 @@
+a="Heyyy,sandy"
+print(a.lower())
