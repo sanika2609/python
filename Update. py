@@ -1,0 +1,3 @@
+x={"apple","banana","grapes","cherry"}
+x.update{["mango", "orange", " watermelon "]}
+print(x) 
