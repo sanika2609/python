@@ -1,0 +1,3 @@
+x=("apple", "lichi", " banana") 
+x[1]="cherry"
+print(x) 
